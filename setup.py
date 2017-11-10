@@ -11,7 +11,8 @@ buildOptions = {"include_files": [r'C:\Program Files\Python36\DLLs\tcl86t.dll',
                                   r'Geography.png',
                                   r'mapkey.txt',
                                   r'timekey.txt',
-                                  r'earth-png-25606.png']
+                                  r'earth-png-25606.png'],
+                "packages": [r'idna']
                 }
 
 base = None
